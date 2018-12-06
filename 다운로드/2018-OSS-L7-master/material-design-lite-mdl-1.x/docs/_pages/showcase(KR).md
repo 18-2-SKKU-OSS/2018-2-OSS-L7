@@ -6,7 +6,7 @@ include_prefix: ../
 sites:
   - name: wallet
     title: Google Wallet
-    description: Google 지갑을 사용하면 미국 내 어느 누구에게나 이메일 주소로 돈을 송금 할 수 있습니다. 직불 카드, 은행 계좌 또는 월렛 잔액에서 빠르고 쉽게 송금 할 수 있습니다.
+    description: Google 월렛을 사용하면 미국 내 어느 누구에게나 이메일 주소로 돈을 송금 할 수 있습니다. 직불 카드, 은행 계좌 또는 월렛 잔액에서 빠르고 쉽게 송금 할 수 있습니다.
     url: https://www.google.com/wallet/
   - name: contributor
     title: Google Contributor
