@@ -4,7 +4,7 @@
 > Material Design Lite
 
 > ### 선정 커뮤니티URL
-> https://github.com/google/material-design-lite
+> [https://github.com/google/material-design-lite](https://github.com/google/material-design-lite)
 
 > ### 선정 커뮤니티 활동방법
 > 우선적으로 다국어 지원을 진행할 예정, 시간적 여유가 있으면 다른 추가적인 활동을 할 예정
