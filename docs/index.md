@@ -1,7 +1,9 @@
 # 2018-2-OSS-L7
 
 > ### 선정 프로젝트
-> **Material Design Lite**:  
+> Material Design Lite 
+
+> ### 선정 프로젝트 소개
 > 웹 개발 시 [Material Design](https://material.io/design/introduction/#)을 쉽게 이식할 수 있도록 도와주는 개발 환경으로  
 > Javascript, CSS, HTML 환경에서 사용된다.
 
