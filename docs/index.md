@@ -4,8 +4,8 @@
 > Material Design Lite 
 
 > ### 선정 프로젝트 소개
-> 웹 개발 시 [Material Design](https://material.io/design/introduction/#)을 쉽게 이식할 수 있도록 도와주는 개발 환경으로  
-> Javascript, CSS, HTML 환경에서 사용된다.
+> Material Design Light (MDL) 은 Google의 머티리얼 디자인(Material Design) 철학 : "우수한 디자인의 기본 원칙을 혁신과 가능성으로 종합한 사용자를 위한 시각적 언어 기술과 과학." 에 기반한 웹 개발자를 위한 구성요소 라이브러리이다.  
+> MDL의 구성요소들은 CSS, JavaScript, 그리고 HTML을 이용하여 제작되었으며 MDL의 구성요소들을 사용하여 매력적이고 일관되며 기능적인 웹 페이지 및 웹 앱을 개발할 수 있다.
 
 > ### 선정 커뮤니티URL
 > [https://github.com/google/material-design-lite](https://github.com/google/material-design-lite)
