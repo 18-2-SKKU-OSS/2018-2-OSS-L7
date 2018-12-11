@@ -26,3 +26,53 @@
 > ### 활동중 문제
 > 외국인학생과 소통문제  
 > 외국인학생 두명이 아직도 팀에 들어오지 않는다.
+
+* * *
+
+### 12월 3일
+한성주-> README 한국어 번역 완료, 참고용으로 material design lite의 링크를 제공함   
+손석규-> github page 초기 작성
+
+* * *
+
+### 12월 4일
+한성주 -> wiki 업데이트   
+손석규 -> github page 작성 (slate theme 적용)  
+수업 시간에 앞으로 프로젝트 진행에 대해 의논함
+
+* * *
+
+### 12월 6일
+서원빈 -> CONTRIBUTING.md 한국어 번역 완료, wiki 업데이트   
+손석규 -> src/INTRODUCTION.md 한국어 번역 완료  
+한성주 -> index.md 한국어 번역 완료
+
+* * *
+
+### 12월 7일
+한성주 -> showcase.md 한국어 번역 완료   
+손석규 -> src/badge/README.md 한국어 번역 완료   
+이슈해결 : 번역의 통일성을 위한 토의
+
+* * *
+
+### 12월 8일
+서원빈 -> templates/android-dot-com/README.md 한국어 번역 완료, 브랜치 문제 해결  
+한성주 -> github page 내용작성
+
+* * *
+
+### 12월 9일
+한성주 -> docs/_pages/temaplet 한국어 번역 완료  
+한성주 -> docs/_pages/style 한국어 번역완료    
+한성주 -> docs/_pages/component 부분번역 완료  
+한성주 -> docs/_pages/faq  번역완료 위키 내용 수정  
+서원빈 -> src/list/README.md 한국어 번역 완료, wiki 업데이트
+
+
+* * *
+
+### 12월 10일
+손석규 -> src/button/README.md 한국어 번역 완료  
+서원빈 -> src/shadow/README.md 한국어 번역 완료  
+손석규 -> src/card/README.md 한국어 번역 완료
